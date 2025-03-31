@@ -24,18 +24,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=FF70E3&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Kandy2705;Full-stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%AD%90;Tech+Blogger+%F0%9F%93%96;Coffee+Lover+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
 </div>
 
-<!-- Programming Languages Section -->
-## 🚀 My Tech Arsenal
-
-<div align="center">
-  
-<!-- Customized Stats -->
-[![Kandy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kandy2705&show_icons=true&theme=nightowl&hide=contribs&include_all_commits=true&count_private=true&hide_border=true&line_height=24)](https://github.com/Kandy2705)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kandy2705&layout=compact&theme=nightowl&exclude_repo=forked-repo-1,forked-repo-2&hide_border=true)](https://github.com/Kandy2705)
-
-</div>
-
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
@@ -73,8 +61,16 @@
 
 <!-- Skill Icons -->
 <div align="center">
-  <h3>🛠 Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,py,java,spring,mongodb,postgres,redis,aws,docker,kubernetes,git,github,idea,vscode" />
+  <h3>🛠 My Tech Arsenal</h3>
+  <div align="center">
+    
+  <!-- Customized Stats -->
+  [![Kandy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kandy2705&show_icons=true&theme=nightowl&hide=contribs&include_all_commits=true&count_private=true&hide_border=true&line_height=24)](https://github.com/Kandy2705)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kandy2705&layout=compact&theme=nightowl&exclude_repo=forked-repo-1,forked-repo-2&hide_border=true)](https://github.com/Kandy2705)
+  
+  </div>
+  <!--<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,py,java,spring,mongodb,postgres,redis,aws,docker,kubernetes,git,github,idea,vscode" /> -->
 </div>
 
 <!-- Activity Graph -->
