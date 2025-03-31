@@ -12,10 +12,43 @@
 
 🎵 Now Playing-->
 
+<!-- Animated Name Header -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=40&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82;Tri%E1%BB%87u+M%E1%BA%ABn;Full-Stack+Dev;%E2%9A%99%EF%B8%8F+Tech+Enthusiast+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  </a>
+</div>
+
 <!-- Header Section -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=FF70E3&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Kandy2705;Full-stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%AD%90;Tech+Blogger+%F0%9F%93%96;Coffee+Lover+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
 </div>
+
+<!-- Programming Languages Section -->
+## 🚀 My Tech Arsenal
+
+<div align="center">
+  
+<!-- Languages with Progress Bars -->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+<!-- Animated Icons -->
+<div style="margin-top:20px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
+</div>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <!-- Social Badges -->
 <div align="center">
