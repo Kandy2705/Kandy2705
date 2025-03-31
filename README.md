@@ -29,21 +29,10 @@
 
 <div align="center">
   
-<!-- Languages with Progress Bars -->
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<!-- Customized Stats -->
+[![Kandy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kandy2705&show_icons=true&theme=nightowl&hide=contribs&include_all_commits=true&count_private=true&hide_border=true&line_height=24)](https://github.com/Kandy2705)
 
-<!-- Animated Icons -->
-<div style="margin-top:20px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kandy2705&layout=compact&theme=nightowl&exclude_repo=forked-repo-1,forked-repo-2&hide_border=true)](https://github.com/Kandy2705)
 
 </div>
 
