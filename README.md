@@ -43,25 +43,14 @@
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<!-- Main Content -->
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-<!-- GitHub Stats Card -->
-![](https://github-readme-stats.vercel.app/api?username=Kandy2705&show_icons=true&theme=radical&hide_border=true)
-    </td>
-    <td valign="top" width="50%">
-
-<!-- Streak Stats -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kandy2705&theme=radical&hide_border=true)
-    </td>
-  </tr>
-</table>
 
 <!-- Skill Icons -->
 <div align="center">
   <h3>🛠 My Tech Arsenal</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,py,java,spring,mongodb,postgres,redis,aws,docker,kubernetes,git,github,vscode" />
+</div>
+
+<div align="center">
   <div align="center">
     
   <!-- Customized Stats -->
@@ -72,6 +61,7 @@
   </div>
   <!--<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,py,java,spring,mongodb,postgres,redis,aws,docker,kubernetes,git,github,idea,vscode" /> -->
 </div>
+
 
 <!-- Activity Graph -->
 <div align="center">
