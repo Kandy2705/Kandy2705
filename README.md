@@ -29,7 +29,7 @@
 
 <!-- Social Badges -->
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/m%E1%BA%ABn-ng%C3%B4-ng%E1%BB%8Dc-tri%E1%BB%87u-86b199362/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:youremail@example.com">
