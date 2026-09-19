@@ -134,37 +134,6 @@
 
 <br/>
 
-<!-- ===================== Activity Graph ===================== -->
-
-<h2 align="center">⚡ Recent Activity</h2>
-
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Kandy2705&theme=react-dark&hide_border=true&area=true&days=31"
-    width="95%"
-    alt="GitHub Activity Graph"
-  />
-
-</div>
-
-<br/>
-
-<!-- ===================== Trophy ===================== -->
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<div align="center">
-
-  <img
-    src="https://github-profile-trophy-liard-delta.vercel.app/?username=Kandy2705&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"
-    alt="GitHub Trophies"
-  />
-
-</div>
-
-<br/>
-
 <!-- ===================== Profile Views ===================== -->
 
 <h2 align="center">👀 Profile Views</h2>
@@ -202,24 +171,10 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Kandy2705/Kandy2705/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Kandy2705/Kandy2705/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      alt="Contribution Snake"
-      src="https://raw.githubusercontent.com/Kandy2705/Kandy2705/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-
+  <img
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake Animation"
+  />
 </div>
 
 <br/>
